@@ -1,4 +1,4 @@
-Steven Liu, 2020 XD
+﻿Steven Liu, 2020 XD
 
 Steve Kraynov, 2020 XD
 
@@ -55,3 +55,5 @@ Partha Majumder, 2021
 Vaastav Varma, 2021 :)
 
 Narcy Liu 2021
+
+Luke Ryan 2021 Pineapple is bad on pizza
